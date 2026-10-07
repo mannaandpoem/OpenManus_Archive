@@ -4,7 +4,7 @@
 
 [English](README.md) | 中文 | [한국어](README_ko.md) | [日本語](README_ja.md)
 
-> **重要提示：** 此版本为 OpenManus 项目的初始完整版，包含了其核心理念。最新更新请访问 https://github.com/FoundationAgents/OpenManus。
+> **重要提示：** 此版本为 OpenManus 项目的初始完整版，包含了其核心理念。最新更新请访问 https://github.com/FoundationAgents/OpenManus 。
 
 [![GitHub stars](https://img.shields.io/github/stars/mannaandpoem/OpenManus?style=social)](https://github.com/mannaandpoem/OpenManus/stargazers)
 &ensp;
